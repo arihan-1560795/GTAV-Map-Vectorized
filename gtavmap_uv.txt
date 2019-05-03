@@ -1,0 +1,65 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: gtavmap_map.ai
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: inches
+Artboard Dimensions: 52.2445 in x 65.0264 in
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Aller Display (OTF)
+CoreSansCR-35LightIt (TrueType)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\OneDrive\GTAV\VTz6Ucz.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 32818K, 3000 by 3734 pixels
+Dimensions: 3761.621 by 4681.964 points 
+Resolution: 57.422 by 57.422 pixels per inch
+
+
+D:\OneDrive\GTAV\gtav-map-atlas-huge-Recovered - Copy.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 262144K, 8192 by 8192 pixels
+Dimensions: 4855.223 by 4855.223 points 
+Resolution: 121.482 by 121.482 pixels per inch
+
+
+D:\OneDrive\GTAV\gtav-map-atlas-huge-Recovered - Copy-darker.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 262144K, 8192 by 8192 pixels
+Dimensions: 4851.127 by 4851.127 points 
+Resolution: 121.585 by 121.585 pixels per inch
