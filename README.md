@@ -12,8 +12,9 @@ This repository contains the following files-
 - __export/Comparison (laseretch, UV, original).png__: Comparison of map variants
 - __export/GTAV laseretch BW.png__: png used for laser etching
 - __export/GTAV-RGB.png__: high-resolution color png of UV map
+- __export/GTAV-RGB-small.png__: low-resolution color png of UV map
 - __export/GTAV-RGB-vector.ai__: Flattened Illustrator file.
 - __Fonts (Dir)__: Fonts used to develop the visualization
 - __Links (Dir)__ Files called on by the gravmap_uv.ai
 
-<img src="export/GTAV-RGB.png" height="720"> <br/> <br/>
+<img src="https://github.com/arihan-1560795/GTAV-Map-Vectorized/raw/master/Export/GTAV-RGB-small.png" height="720"> <br/> <br/>
